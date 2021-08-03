@@ -19,7 +19,7 @@ Member: Shubhajyoti Roy
 
 Member: Diya Arul
 
-Member: [Uduakabasi James]()
+Member: Uduakabasi James(https://user-images.githubusercontent.com/88382546/128068340-51233d8c-2150-40ca-81ce-de23d37beebe.jpg)
 I am Uduakabasi James from Nigeria, a recent Masters of Public health graduate that specialized in Epidemiology. I also attended a B.Sc degree in Physiology, I am aspiring to get my PhD in Epidemioligy which is going to focus mostly on research work involving infectious diseases, so i am imterested in learing as much as i can especilaly in the vaccine informatics, science communication, genomics, bioinformatics and data analysis area, so as to be well equipted for further research and programs which will enable me to make a positive and meaninful impact on the world.
 
 Member: Jane Gati 
