@@ -19,7 +19,7 @@ Member: Shubhajyoti Roy
 
 Member: Diya Arul
 
-Member: Uduakabasi James
+Member: Uduakabasi James ![Uduakabasi James-348726291.jpg…]()
 
 Member: Jane Gati 
 
