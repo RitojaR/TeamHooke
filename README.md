@@ -12,7 +12,7 @@ Team leader: Ritoja
 Assistant : [Suchitra Thapa](https://media-exp1.licdn.com/dms/image/C5103AQFxeW2d5fS3oA/profile-displayphoto-shrink_800_800/0/1585376313919?e=1633564800&v=beta&t=-cL9D1a3Ud4VsCOMs0tSWs6Lmd1nGUCWpChMJSAr7Dg)
 I am Suchitra Thapa from Nepal. I am a microbiology lecturer of Tribhuvan University. I am an early career researcher and my field of interest is AMR, microbial genomics, bioinformatics, public health and molecular biology. I am really excited to join HackBio internship 2021 to learn new computational skills for my research and create a network for collaborative research. I believe in teamwork and growing together.
 
-Member: Karthika R, Masters Graduate in Computational Biology.
+Member: [Karthika R](https://github.com/karthikavarmar), Masters Graduate in Computational Biology.
 
 Member: [Jaykishan](https://user-images.githubusercontent.com/86801284/128025078-f00fb2d2-971b-423e-b7b5-f3bae912a4ef.jpg)
 My self Jaykishan Solanki from India currently pursuing my master in Bioinformatics from the Central University of Pondicherry India, I have done my Bachelor’s in Bioinformatics, I am interested in ligand-based drug design specifically from Phytochemicals, I am very excited to learn something new and apply it to solve real-life problems. Thank you.
