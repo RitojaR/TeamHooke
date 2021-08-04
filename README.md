@@ -10,14 +10,15 @@ Team leader: Ritoja
 
 
 Assistant : [Suchitra Thapa](https://media-exp1.licdn.com/dms/image/C5103AQFxeW2d5fS3oA/profile-displayphoto-shrink_800_800/0/1585376313919?e=1633564800&v=beta&t=-cL9D1a3Ud4VsCOMs0tSWs6Lmd1nGUCWpChMJSAr7Dg)
-I am Suchitra Thapa from Nepal. I am a microbiology lecturer of Tribhuvan University. I am an early career researcher and my field of interest is AMR, microbial genomics, bioinformatics, public health and molecular biology. I am really excited to join HackBio internship 2021 to learn new computational skills for my research and create a network for collaborative research. I believe in team work and growing together.
+I am Suchitra Thapa from Nepal. I am a microbiology lecturer of Tribhuvan University. I am an early career researcher and my field of interest is AMR, microbial genomics, bioinformatics, public health and molecular biology. I am really excited to join HackBio internship 2021 to learn new computational skills for my research and create a network for collaborative research. I believe in teamwork and growing together.
 
 Member: [Jaykishan](https://user-images.githubusercontent.com/86801284/128025078-f00fb2d2-971b-423e-b7b5-f3bae912a4ef.jpg)
-My self Jaykishan Solanki from India currently pursuing my master in Bioinformatics from the Central University of Pondicherry India, I have done my Bachelor’s in Bioinformatics, I am interested in ligand-based drug design specifically from Phytochemicals, I am very excited to learn something new and apply it to solve real-life problems.Thank you.
+My self Jaykishan Solanki from India currently pursuing my master in Bioinformatics from the Central University of Pondicherry India, I have done my Bachelor’s in Bioinformatics, I am interested in ligand-based drug design specifically from Phytochemicals, I am very excited to learn something new and apply it to solve real-life problems. Thank you.
 
 Member: Shubhajyoti Roy
 
-Member: Diya Arul
+Member: [Diya Arul](https://avatars.githubusercontent.com/u/67481283?s=400&u=6e40e670a574771b5c2dc2e9d3e135b16a137c9c&v=4)
+Hi! I'm Diya Arul, and I'm a third year Bioengineering Bachelor's student from Pune, India. My interest fields include Drug Designing, Nanotechnology, Genetic Engineering, Systems Biology and Machine Learning. I'm looking forward to put my skills to good use during the course of this internship, and hope to attain increased competency and expertise in their application. 
 
 Member: [Uduakabasi James](https://user-images.githubusercontent.com/88382546/128068340-51233d8c-2150-40ca-81ce-de23d37beebe.jpg)
 I am Uduakabasi James from Nigeria, a recent Masters of Public health graduate that specialized in Epidemiology. I also attended a B.Sc degree in Physiology, I am aspiring to get my PhD in Epidemioligy which is going to focus mostly on research work involving infectious diseases, so i am imterested in learing as much as i can especilaly in the vaccine informatics, science communication, genomics, bioinformatics and data analysis area, so as to be well equipted for further research and programs which will enable me to make a positive and meaninful impact on the world.
