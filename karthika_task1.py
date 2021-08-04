@@ -8,4 +8,4 @@ def hamming_distance(s1, s2):
     return sum(c1 != c2 for c1, c2 in zip(s1, s2))
 s1 = values[2]
 s2 = values[4]
-print("\nHamming Distance btw Slack & Twitter handle is", hamming_distance(s1,s2))
+print("\nHamming Distance: ", hamming_distance(s1,s2))
