@@ -1,12 +1,12 @@
 # TeamHooke
-HackBio internship 2021 team Hooke
+HackBio Internship 2021 Team Hooke
 
 HackBio is a virtual internship for life scientists, students, instructors and early career researcher. This is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills. This is a great opportunity for learning and sharing. At the end of the inernship the participants will be equiped with advanced bioinformatic skills to work as an independent project leader. People/participants can join as a intern for learning and as a mentor for sharing the knowledge.
 The academic team ofHackBio organisers consist of instructors and mentors. The listed instructors are [Ambrose O. George!](https://thehackbio.com/assets/images/69267083-2557083224519394-5150000632144330752-n-506x503.jpg), [Winfred N. Gatua!](https://thehackbio.com/assets/images/0-apyisa0c-qwjfxbm-506x379.jpg), [Melyssa Minto!](https://thehackbio.com/assets/images/eu69wojxeaawirm-506x337.jpg) and [Niyi Adelakun!](https://thehackbio.com/assets/images/img-20200725-wa0035-removebg-preview-4-433x577.png). While the listed mentors are [Enejoh O. Ojochenemi!](https://thehackbio.com/assets/images/fb-img-15919812906829476-696x696.jpg) , [Umar Ahmad!](https://thehackbio.com/assets/images/whatsapp-image-2020-12-28-at-2.18.38-pm-696x928.jpeg) , [Gerald Mboowa!](https://thehackbio.com/assets/images/download-201x251.jpeg) , [Sarah Carl!](https://thehackbio.com/assets/images/sarah-photo-800x800.jpg) , [Halima Moncrieffe!](https://thehackbio.com/assets/images/fog-1-696x696.png)  and [Kolawole Oladipo!](https://thehackbio.com/assets/images/oladipo-elijah-kolawole-512x512.jpg).
 
-This is the team repository for Hooke team for HackBio 2021. This team was formed during the initial stage to fulfill different task collaboratively. This team consist of 19 members from different field of science and their details are provided below:
+This is the team repository for Hooke Team for HackBio 2021. This team was formed during the initial stage to fulfill different task collaboratively. This team consist of 19 members from different field of science and their details are provided below:
 
-Team leader: Ritoja
+Team leader:I am Ritoja from India. I am a final year undergraduate student in Biotechnology. I am interested in research in cancer biology. I am excited to be a part of HackBio Internship 2021.
 
 
 Assistant : [Suchitra Thapa](https://media-exp1.licdn.com/dms/image/C5103AQFxeW2d5fS3oA/profile-displayphoto-shrink_800_800/0/1585376313919?e=1633564800&v=beta&t=-cL9D1a3Ud4VsCOMs0tSWs6Lmd1nGUCWpChMJSAr7Dg)
