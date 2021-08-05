@@ -25,7 +25,7 @@ Hi! I'm Diya Arul, and I'm a third year Bioengineering Bachelor's student from P
 Member: [Uduakabasi James](https://user-images.githubusercontent.com/88382546/128068340-51233d8c-2150-40ca-81ce-de23d37beebe.jpg)
 I am Uduakabasi James from Nigeria, a recent Masters of Public health graduate that specialized in Epidemiology. I also attended a B.Sc degree in Physiology, I am aspiring to get my PhD in Epidemioligy which is going to focus mostly on research work involving infectious diseases, so i am imterested in learing as much as i can especilaly in the vaccine informatics, science communication, genomics, bioinformatics and data analysis area, so as to be well equipted for further research and programs which will enable me to make a positive and meaninful impact on the world.
 
-Member: [Oluwabunmi Adeniyi]
+Member: [Oluwabunmi Adeniyi](https://github.com/Oluwabunmi22)
 Hello, I'm Oluwabunmi Adeniyi from Nigeria. I am a graduate of Physiology. I have a great passion towards public health. I am aspiring to pursue my masters in public health specializing in epidemiology. I am so excited for this internship as it gives me a platform of growth and development towards achieving my goal.
 
 Member: Jane Gati 
@@ -40,3 +40,4 @@ Member: Richa Das
 
 Member: Vaishnavi Chaubey
 
+Member: Oluwabunmi Adeniyi
