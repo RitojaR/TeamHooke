@@ -6,7 +6,7 @@ The academic team ofHackBio organisers consist of instructors and mentors. The l
 
 This is the team repository for Hooke Team for HackBio 2021. This team was formed during the initial stage to fulfill different task collaboratively. This team consist of 19 members from different field of science and their details are provided below:
 
-Team leader:[Ritoja Ray](https://user-images.githubusercontent.com/88329693/128407486-cd6fa692-c86f-49da-80c7-7bdac91eb6c9.jpg) I am Ritoja from India. I am a final year undergraduate student in Biotechnology. I am interested in research in cancer biology. I am excited to be a part of HackBio Internship 2021.
+Team leader: [Ritoja Ray](https://user-images.githubusercontent.com/88329693/128407486-cd6fa692-c86f-49da-80c7-7bdac91eb6c9.jpg) I am Ritoja from India. I am a final year undergraduate student in Biotechnology. I am interested in research in cancer biology. I am excited to be a part of HackBio Internship 2021.
 
 
 Assistant : [Suchitra Thapa](https://media-exp1.licdn.com/dms/image/C5103AQFxeW2d5fS3oA/profile-displayphoto-shrink_800_800/0/1585376313919?e=1633564800&v=beta&t=-cL9D1a3Ud4VsCOMs0tSWs6Lmd1nGUCWpChMJSAr7Dg)
