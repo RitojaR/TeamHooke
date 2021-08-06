@@ -1,3 +1,5 @@
+# Rscript 
+
 name<-"Ritoja Ray"
 email<-"ritojaray@hotmail.com"
 slack<-"@Ritoja"
