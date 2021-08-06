@@ -1,7 +1,5 @@
 #!/bin/bash
 
-export PATH=$PATH:"/C/Program Files/R/R-4.1.0/bin/x64"
-
 #clone team repo
 git clone https://github.com/RitojaR/TeamHooke
 
