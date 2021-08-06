@@ -29,7 +29,7 @@ Member: [Oluwabunmi Adeniyi](https://github.com/Oluwabunmi22)
 Hello, I'm Oluwabunmi Adeniyi from Nigeria. I am a graduate of Physiology. I have a great passion towards public health. I am aspiring to pursue my masters in public health specializing in epidemiology. I am so excited for this internship as it gives me a platform of growth and development towards achieving my goal.
 
 Member: Radhu Ladani
-Hello, I am a passionate and purposeful student keenly interested in Computational Biology, drug discovery, NGS analysis and Comparative Genomics along with the application related to Machine learning and Statistical Data analysis.
+,I am a passionate and purposeful student keenly interested in Computational Biology, drug discovery, NGS analysis and Comparative Genomics along with the application related to Machine learning and Statistical Data analysis.
 
 Member: Jane Gati 
 
