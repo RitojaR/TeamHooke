@@ -4,7 +4,7 @@
 git clone https://github.com/RitojaR/TeamHooke
 
 #make the directory accessible
-Chmod +x TeamHooke
+chmod +x TeamHooke
 
 #Change the directory to TeamHooke from current
 cd ./TeamHooke
