@@ -12,9 +12,20 @@ cd TeamHooke
 #create the header
 echo Name, Email, Slack_username, Biostack, Twitter_handle, Hamming_distance > teamCSV.csv
 
-#For Rscript
+#Rscript
 for Rscript in *.R
 do
         Rscript $Rscript >> teamCSV.csv
 done
+
+# python script
+for python in *.py
+do
+python $python >> teamCSV.csv
+done
+
+#Java
+for java in *.java
+do
+
 
