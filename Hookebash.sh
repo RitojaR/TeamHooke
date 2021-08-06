@@ -19,9 +19,9 @@ do
 done
 
 # python script
-for python in *.py
+for pyscript in *.py
 do
-python $python >> teamCSV.csv
+        pyscript $python >> teamCSV.csv
 done
 
 #Java
