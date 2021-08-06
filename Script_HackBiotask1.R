@@ -19,5 +19,4 @@ Hamming_Distance<- sum(x!=y)
 df<-data.frame(Name,Email,Slack_username,Biostack,Twitter_handle,Hamming_Distance)
 
 #Visualize the dataframe
-df
-View(df)
+cat(paste(df,collapse=','))
