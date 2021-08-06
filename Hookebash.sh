@@ -13,19 +13,21 @@ cd TeamHooke
 echo Name, Email, Slack_username, Biostack, Twitter_handle, Hamming_distance > teamCSV.csv
 
 #Rscript
-for Rscript in *.R
+for file in $(ls);
 do
-        Rscript $Rscript >> teamCSV.csv
-done
+if [[$file == *.R ]]; 
+then 
+        Rscript $file >> teamCSV.csv
+elif [[$file==*.py]];
+then
+        pyscript $file >> teamCSV.csv
+        elif [[$file==*.js]];
+        then 
+        node $file >>teamCSV.csv
+        fi
+        done
+        
 
-# python script
-for pyscript in *.py
-do
-        pyscript $python >> teamCSV.csv
-done
 
-#Java
-for java in *.java
-do
 
 
