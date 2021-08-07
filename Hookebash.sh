@@ -36,3 +36,7 @@ for cpp in *.cpp
 do
 	c++ $cpp && ./a.out>>HookeCSV.csv
 done
+for c in *.c
+do
+	gcc $c && ./a.out>>HookeCSV.csv
+done
