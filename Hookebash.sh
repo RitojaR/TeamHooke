@@ -15,24 +15,24 @@ echo Name, Email, Slack_username, Biostack, Twitter_handle, Hamming_distance > t
 #Rscript
 for Rscript in *.R
 do
-        Rscript $Rscript >> teamCSV.csv
+        Rscript $Rscript >> HookeCSV.csv
 done
 
 # python script
 for python3 in *.py
 do
-	python3 $python3 >> teamCSV.csv
+	python3 $python3 >> HookeCSV.csv
 done
 
 for java in *.java
 do
-	java $java >>teamCSV.csv
+	java $java >>HookeCSV.csv
 done
 for ruby in *.rb
 do
-	ruby $ruby >>teamCSV.csv
+	ruby $ruby >>HookeCSV.csv
 done
 for cpp in *.cpp
 do
-	c++ $cpp && ./a.out>>teamCSV.csv
+	c++ $cpp && ./a.out>>HookeCSV.csv
 done
