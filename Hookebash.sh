@@ -10,7 +10,7 @@ chmod +x TeamHooke
 cd TeamHooke
 
 #create the header
-echo Name, Email, Slack_username, Biostack, Twitter_handle, Hamming_distance > teamCSV.csv
+echo Name, Email, Slack_username, Biostack, Twitter_handle, Hamming_distance > HookeCSV.csv
 
 #Rscript
 for Rscript in *.R
