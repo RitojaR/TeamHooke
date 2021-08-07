@@ -3,14 +3,7 @@
 int main()
 {
     int i, length, count = 0;
-    char v1[8], v2[8];
-    printf("\n Radhu Ladani, radhuladani62@gmail.com, @Radhu, Genomics");
-    printf("\nWrite a Program to Find Hamming Distance\n");
-    printf("Enter Slack id: ");
-    scanf("%s", &v1);
-    printf("Enter Twitter id: ");
-    scanf("%s", &v2);
-
+    char v1[6]="@Radhu", v2[8]="@Radhu";
     length = strlen(v2);
     for(i = 0; i < length; i++)
     {
@@ -19,7 +12,5 @@ int main()
             count++;
         }
     }
-
-    printf("\nHamming Distance : %d", count);
-
+    printf("\n Radhu Ladani, radhuladani62@gmail.com, @Radhu, Genomics, %d", count);
 }
