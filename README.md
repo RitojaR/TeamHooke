@@ -33,7 +33,7 @@ I am a passionate and purposeful student keenly interested in Computational Biol
 
 Member: Jane Gati 
 
-Member: Aneela Qasim
+Member: Aneela Qasim: I'm Aneela from Pakistan, graduated in Biotechnology. I'm interested in the fields of principle of biochemical engineering, fermentaion technology, nanobiotevhnology, genomics and Proteomics.
 
 Member:[Shreya Adhya](https://avatars.githubusercontent.com/u/76802799?v=4) Hello! I am Shreya Adhya, I'm pursuing Masters in Bioinformatics from Pondicherry University, India. The application of computer science, data analysis, statistics to manage biological data interested me to take up Bioinformatics. I'm here to learn and grow as a team member and gain more knowledge on the applications and hands-on experience in bioinformatics. 
 
