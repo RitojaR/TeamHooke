@@ -12,5 +12,5 @@ int main()
             count++;
         }
     }
-    printf("Radhu Ladani, radhuladani62@gmail.com, @Radhu, Genomics, %d", count);
+    printf("Radhu Ladani, radhuladani62@gmail.com, @Radhu, Genomics, @Radhu, %d", count);
 }
