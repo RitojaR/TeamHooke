@@ -18,7 +18,9 @@ D <- colSums(A != B)
 Hamming_Distance<- min(D)
 
 #Join the variables to create a dataframe
-df<-data.frame(Name,Email,Slack_username,Biostack,Twitter_handle,Hamming_Distance)
+#df<-data.frame(Name,Email,Slack_username,Biostack,Twitter_handle,Hamming_Distance)
 
 #Visualize the dataframe
-cat(paste(df,collapse=','))
+cat ("\n") 
+cat(paste(Name,Email,Slack_username,Biostack,Twitter_handle,Hamming_Distance,sep=", "))
+cat("\n")
