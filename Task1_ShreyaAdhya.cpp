@@ -10,17 +10,6 @@ class hackbio // declaring class hackbio
 		void display(void); // to display the information
 };
 
-//function to display the items
-void hackbio :: display (void)
-{
-    cout<<" Name : Shreya Adhya,"<<endl;
-	cout<<" e-mail ID : adhyatiti@gmail.com,"<<endl;
-	cout<<" Slack Username : @ShreyaAdhya,"<<endl;
-	cout<<" Twitter Username : @ShreyaAdhya,"<<endl;
-	cout<<" Biostack : Data Science, Epigenomics"<<endl;
-}
-
- 
 // function to calculate Hamming distance
 int hammingDist(char *str1, char *str2)
 {
@@ -40,11 +29,8 @@ int main()  //main class
     char str1[] = "@ShreyaAdhya"; //carries the slack username
     char str2[] = "@ShreyaAdhya"; //carries the Twitter username 
  
-    hackbio h; //creating an object inside the main class
     
-    // function call
-	h.display();
-	cout <<"\n Hamming distance is "<<hammingDist (str1, str2)<<" bits."<<endl;
+	cout<<"Shreya Adhya, adhyatiti@gmail.com, @ShreyaAdhya, Data Science and Epigenomics, @ShreyaAdhya, " << hammingDist (str1, str2)<<endl;
    
     return 0;
 }
