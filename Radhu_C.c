@@ -4,10 +4,7 @@ int main()
 {
     int i, length, count = 0;
     char v1[8], v2[8];
-    printf("\n Radhu Ladani");
-    printf("\n radhuladani62@gmail.com");
-    printf("\n @Radhu");
-    printf("\n Genomics");
+    printf("\n Radhu Ladani, radhuladani62@gmail.com, @Radhu, Genomics");
     printf("\nWrite a Program to Find Hamming Distance\n");
     printf("Enter Slack id: ");
     scanf("%s", &v1);
