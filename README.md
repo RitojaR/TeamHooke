@@ -28,7 +28,7 @@ I am Uduakabasi James from Nigeria, a recent Masters of Public health graduate t
 👩‍🔬Member: [Oluwabunmi Adeniyi](https://github.com/Oluwabunmi22)
 Hello, I'm Oluwabunmi Adeniyi from Nigeria. I am a graduate of Physiology. I have a great passion towards public health. I am aspiring to pursue my masters in public health specializing in epidemiology. I am so excited for this internship as it gives me a platform of growth and development towards achieving my goal.
 
-👩‍🔬Member: Radhu Ladani,
+👩‍🔬Member: [Radhu Ladani](https://user-images.githubusercontent.com/86801284/128587532-76bc001a-5435-4e01-a0ea-0c925aa36f1b.jpeg)
 I am a passionate and purposeful student keenly interested in Computational Biology, drug discovery, NGS analysis and Comparative Genomics along with the application related to Machine learning and Statistical Data analysis.
 
 Member: Jane Gati 
