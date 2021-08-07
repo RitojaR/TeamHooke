@@ -11,7 +11,7 @@ This is a team repository for Hooke Team for HackBio 2021. This team was formed 
 👩‍🔬 Assistant : [Suchitra Thapa](https://avatars.githubusercontent.com/u/83858230?s=400&u=6e92c7b9f7f1f1dea9193d9833c8273e12713c84&v=4)
 I am Suchitra Thapa from Nepal. I am a microbiology lecturer of Tribhuvan University. I am an early career researcher and my field of interest is AMR, microbial genomics, bioinformatics, public health and molecular biology. I am really excited to join HackBio internship 2021 to learn new computational skills for my research and create a network for collaborative research. I believe in teamwork and growing together.
 
-👩‍🔬Member: [Karthika R](https://github.com/karthikavarmar), Masters Graduate in Computational Biology.Loves to research on the Genomics and Drug Discovery areas to improve people's lives.
+👩‍🔬Member: [Karthika R](https://github.com/karthikavarmar), Masters Graduate in Computational Biology. Loves to research on the Genomics and Drug Discovery areas to improve people's lives.
 
 
 :man_scientist:Member: [Jaykishan](https://user-images.githubusercontent.com/86801284/128025078-f00fb2d2-971b-423e-b7b5-f3bae912a4ef.jpg)
