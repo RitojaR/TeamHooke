@@ -3,9 +3,9 @@ print("Name:            Solanki Jaykishan");
 print("Email:           solankijaykishan91@gmail.com");
 print("Slack_Username:  @Jay");
 print("Biostack:        Drug_Development");
-print("Twitter:         @Jaykishansolan9")
+print("Twitter:         @Ja9")
 Slack_id = "@Jay"
-Twitter_id = "@Jaykishansolan9"
+Twitter_id = "@Ja9"
 def hamming_distance(Slack_id, Twitter_id):
     distance=0
     L = len(Slack_id)
