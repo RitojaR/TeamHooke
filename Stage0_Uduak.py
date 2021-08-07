@@ -1,6 +1,6 @@
-name ="Uduak"
+name ="Uduakabasi James"
 email = "udyjames92@gmail.com"
-biostack = "Epidemiology and vaccine informatics"
+biostack = "Epidemiology and Vaccine informatics"
 slackUsername = "@Uduak"
 twitterHandle = "@Udyjames"
 def h_d_loop(slackUsername,twitterHandle):
