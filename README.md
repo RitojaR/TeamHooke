@@ -33,14 +33,23 @@ I am a passionate and purposeful student keenly interested in Computational Biol
 :woman_scientist:Member:[Shreya Adhya](https://avatars.githubusercontent.com/u/76802799?v=4) Hello! I am Shreya Adhya, I'm pursuing Masters in Bioinformatics from Pondicherry University, India. The application of computer science, data analysis, statistics to manage biological data interested me to take up Bioinformatics. I'm here to learn and grow as a team member and gain more knowledge on the applications and hands-on experience in bioinformatics. 
 
 Member: Shubhajyoti Roy
+
 Member: Jane Gati 
+
 Member: Abdulquadri Adegbiji
+
 Member: Richa Das
+
 Member: Dave
+
 Member: Judy Mathushika
+
 Member: Kavitha
+
 Member: Laurah
+
 Member: Reshma
+
 Member: Sonal Kudva
 
 This team is open for any suggestion and guidance whatsoever needed by anyone.:writing_hand:
