@@ -28,3 +28,11 @@ for java in *.java
 do
 	java $java >>teamCSV.csv
 done
+for ruby in *.rb
+do
+	ruby $ruby >>teamCSV.csv
+done
+for cpp in *.cpp
+do
+	c++ $cpp && ./a.out>>teamCSV.csv
+done
